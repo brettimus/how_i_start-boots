@@ -1,6 +1,6 @@
 # HowIStart::Boots
 
-TODO: Write a gem description
+Baby's first gem. Outputs a link. Yippeeeee
 
 ## Installation
 
