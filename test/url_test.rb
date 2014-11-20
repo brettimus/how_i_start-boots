@@ -1,3 +1,4 @@
+gem "minitest"
 require "minitest/autorun"
 
 require "how_i_start/boots"
