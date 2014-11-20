@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'how_i_start'
+require 'how_i_start/boots'
 
-puts HowIStart::Url
+puts HowIStart::Boots::Url
