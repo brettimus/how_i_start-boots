@@ -2,6 +2,6 @@ module HowIStart
   module Boots
 
     # The current version of HowIStart-Boots
-    VERSION = "0.0.1"
+    VERSION = "1.0.0"
   end
 end
